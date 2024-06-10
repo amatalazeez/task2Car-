@@ -1,0 +1,77 @@
+[
+{
+"id": 1,
+"title": "2019 Toyota Corolla",
+"price": 15000,
+"company": "Toyota",
+"model": "Corolla",
+"year": 2019,
+"condition": "Used",
+"thumbnail": "https://th.bing.com/th?id=OIP.JS9jiZu8jZfKvFYjWejmZQAAAA&w=320&h=195&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+"details": {
+"mileage": "30,000 miles",
+"fuelType": "Petrol",
+"transmission": "Automatic",
+"color": "White",
+"doors": 4,
+"engine": "1.8L I4"
+},
+"seller": {
+"name": "John Doe",
+"contact": "john.doe@example.com",
+"phone": "123-456-7890",
+"location": "123 Main St, Anytown, USA"
+}
+},
+{
+"id": 2,
+"title": "2021 Honda Civic",
+"price": 22000,
+"company": "Honda",
+"model": "Civic",
+"year": 2021,
+"condition": "New",
+"thumbnail": "https://th.bing.com/th/id/OIP._xZbdP8xcWAFkxmcCcUMQwAAAA?rs=1&pid=ImgDetMain",
+"details": {
+"mileage": "0 miles",
+"fuelType": "Petrol",
+"transmission": "Automatic",
+"color": "Blue",
+"doors": 4,
+"engine": "2.0L I4"
+},
+"seller": {
+"name": "Jane Smith",
+"contact": "jane.smith@example.com",
+"phone": "987-654-3210",
+"location": "456 Elm St, Anycity, USA"
+}
+},
+{
+"id": 3,
+"title": "2022 Volkswagen Golf",
+"price": 25000,
+"company": "Volkswagen",
+"model": "Golf",
+"year": 2022,
+"condition": "Used",
+"thumbnail": "https://th.bing.com/th/id/R.5b0b3ef7693d90eab6667a0afafe4a64?rik=xd4qJfabqDf6VA&pid=ImgRaw&r=0",
+"details": {
+"mileage": "20,000 miles",
+"fuelType": "Diesel",
+"transmission": "Manual",
+"color": "Gray",
+"doors": 5,
+"engine": "1.5L I4"
+},
+"seller": {
+"name": "Michael Johnson",
+"contact": "michael.johnson@example.com",
+"phone": "555-123-4567",
+"location": "789 Oak St, Someplace, USA"
+}
+}
+
+
+  ]
+  
